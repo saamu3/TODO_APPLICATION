@@ -1,0 +1,9 @@
+.del{
+    padding: 20px;
+    margin-top: -15px;
+}
+.cont {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
